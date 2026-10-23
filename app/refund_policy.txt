@@ -1,0 +1,23 @@
+SHOPASSIST AI — DEMO REFUND POLICY
+
+CAPSTONE DEMONSTRATION DOCUMENT
+
+PURPOSE
+This sample policy is for the ShopAssist AI educational capstone. It is not a verified policy for a real store.
+
+DEMO ELIGIBILITY RULES
+1. A customer may request a return or refund within 7 calendar days of delivery.
+2. The item must be unused and in its original packaging.
+3. The customer must provide an order ID so the order can be checked.
+4. Meeting these example rules does not guarantee approval. A support representative must review the request.
+5. If the order or delivery date cannot be verified, mark the request as Pending Review.
+
+DEMO REFUND WORKFLOW
+1. Find the order in the Orders spreadsheet.
+2. Check the order details and delivery date, if available.
+3. Compare the request with the demo eligibility rules.
+4. Record the result as Approved for Demo, Rejected, or Pending Review.
+5. Send a confirmation email only after an authorized reviewer approves the refund.
+
+IMPORTANT NOTICE
+This is sample data for an educational capstone. It does not authorize real refunds, payments, or customer communications.
